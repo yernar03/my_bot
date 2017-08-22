@@ -1,1 +1,1 @@
-# my_bot
+# upsellbot
